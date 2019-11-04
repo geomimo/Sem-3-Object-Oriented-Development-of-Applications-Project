@@ -1,0 +1,95 @@
+C:\Users\GeoMimo\source\repos\CS\Telikes\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe.config
+C:\Users\GeoMimo\source\repos\CS\Telikes\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe
+C:\Users\GeoMimo\source\repos\CS\Telikes\A_Teliki\A_Teliki\bin\Debug\A_Teliki.pdb
+C:\Users\GeoMimo\source\repos\CS\Telikes\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csprojAssemblyReference.cache
+C:\Users\GeoMimo\source\repos\CS\Telikes\A_Teliki\A_Teliki\obj\Debug\A_Teliki.Properties.Resources.resources
+C:\Users\GeoMimo\source\repos\CS\Telikes\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.GenerateResource.cache
+C:\Users\GeoMimo\source\repos\CS\Telikes\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.CoreCompileInputs.cache
+C:\Users\GeoMimo\source\repos\CS\Telikes\A_Teliki\A_Teliki\obj\Debug\A_Teliki.exe
+C:\Users\GeoMimo\source\repos\CS\Telikes\A_Teliki\A_Teliki\obj\Debug\A_Teliki.pdb
+C:\Users\GeoMimo\source\repos\CS\Telikes\A_Teliki\A_Teliki\obj\Debug\A_Teliki.MainForm.resources
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe.config
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.pdb
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csprojAssemblyReference.cache
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.MainForm.resources
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.Properties.Resources.resources
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.GenerateResource.cache
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.CoreCompileInputs.cache
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.exe
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.pdb
+C:\Users\pc\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe.config
+C:\Users\pc\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe
+C:\Users\pc\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.pdb
+C:\Users\pc\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.MainForm.resources
+C:\Users\pc\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.Properties.Resources.resources
+C:\Users\pc\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.exe
+C:\Users\pc\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.pdb
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe.config
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.pdb
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csprojAssemblyReference.cache
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.MainForm.resources
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.Properties.Resources.resources
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.GenerateResource.cache
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.CoreCompileInputs.cache
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.exe
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.pdb
+C:\Users\GeoMimo\Downloads\Telikes-CS-A (1)\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe.config
+C:\Users\GeoMimo\Downloads\Telikes-CS-A (1)\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe
+C:\Users\GeoMimo\Downloads\Telikes-CS-A (1)\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.pdb
+C:\Users\GeoMimo\Downloads\Telikes-CS-A (1)\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csprojAssemblyReference.cache
+C:\Users\GeoMimo\Downloads\Telikes-CS-A (1)\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.MainForm.resources
+C:\Users\GeoMimo\Downloads\Telikes-CS-A (1)\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.Properties.Resources.resources
+C:\Users\GeoMimo\Downloads\Telikes-CS-A (1)\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.GenerateResource.cache
+C:\Users\GeoMimo\Downloads\Telikes-CS-A (1)\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.CoreCompileInputs.cache
+C:\Users\GeoMimo\Downloads\Telikes-CS-A (1)\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.exe
+C:\Users\GeoMimo\Downloads\Telikes-CS-A (1)\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.pdb
+C:\Users\pc\Downloads\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe.config
+C:\Users\pc\Downloads\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe
+C:\Users\pc\Downloads\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.pdb
+C:\Users\pc\Downloads\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.MainForm.resources
+C:\Users\pc\Downloads\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.Properties.Resources.resources
+C:\Users\pc\Downloads\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.exe
+C:\Users\pc\Downloads\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.pdb
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.LeaderForm.resources
+C:\Users\pc\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.LeaderForm.resources
+C:\Users\GeoMimo\Downloads\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe.config
+C:\Users\GeoMimo\Downloads\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe
+C:\Users\GeoMimo\Downloads\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.pdb
+C:\Users\GeoMimo\Downloads\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csprojAssemblyReference.cache
+C:\Users\GeoMimo\Downloads\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.LeaderForm.resources
+C:\Users\GeoMimo\Downloads\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.MainForm.resources
+C:\Users\GeoMimo\Downloads\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.Properties.Resources.resources
+C:\Users\GeoMimo\Downloads\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.GenerateResource.cache
+C:\Users\GeoMimo\Downloads\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.CoreCompileInputs.cache
+C:\Users\GeoMimo\Downloads\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.exe
+C:\Users\GeoMimo\Downloads\Telikes-CS-A\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.pdb
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe.config
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\bin\Debug\A_Teliki.pdb
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csprojAssemblyReference.cache
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.LeaderForm.resources
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.MainForm.resources
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.Properties.Resources.resources
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.GenerateResource.cache
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.CoreCompileInputs.cache
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.exe
+C:\Users\GeoMimo\Desktop\Telikes-CS-A\A_Teliki\A_Teliki\obj\Debug\A_Teliki.pdb
+C:\Users\GeoMimo\Documents\GitHub\Telikes-CS\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe.config
+C:\Users\GeoMimo\Documents\GitHub\Telikes-CS\A_Teliki\A_Teliki\bin\Debug\A_Teliki.exe
+C:\Users\GeoMimo\Documents\GitHub\Telikes-CS\A_Teliki\A_Teliki\bin\Debug\A_Teliki.pdb
+C:\Users\GeoMimo\Documents\GitHub\Telikes-CS\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csprojAssemblyReference.cache
+C:\Users\GeoMimo\Documents\GitHub\Telikes-CS\A_Teliki\A_Teliki\obj\Debug\A_Teliki.LeaderForm.resources
+C:\Users\GeoMimo\Documents\GitHub\Telikes-CS\A_Teliki\A_Teliki\obj\Debug\A_Teliki.MainForm.resources
+C:\Users\GeoMimo\Documents\GitHub\Telikes-CS\A_Teliki\A_Teliki\obj\Debug\A_Teliki.Properties.Resources.resources
+C:\Users\GeoMimo\Documents\GitHub\Telikes-CS\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.GenerateResource.cache
+C:\Users\GeoMimo\Documents\GitHub\Telikes-CS\A_Teliki\A_Teliki\obj\Debug\A_Teliki.csproj.CoreCompileInputs.cache
+C:\Users\GeoMimo\Documents\GitHub\Telikes-CS\A_Teliki\A_Teliki\obj\Debug\A_Teliki.exe
+C:\Users\GeoMimo\Documents\GitHub\Telikes-CS\A_Teliki\A_Teliki\obj\Debug\A_Teliki.pdb

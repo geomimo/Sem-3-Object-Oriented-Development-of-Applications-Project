@@ -1,0 +1,12 @@
+george 52,34 40
+paul 70,19 37
+anna 67,32 27
+peter 80,57 42
+john 54,37 32
+joe 62,46 30
+alex 20,11 16
+chris 21,65 18
+k_moris 48,21 32
+helen 86.61 42
+nick 93.21 52
+eve 32,94 26

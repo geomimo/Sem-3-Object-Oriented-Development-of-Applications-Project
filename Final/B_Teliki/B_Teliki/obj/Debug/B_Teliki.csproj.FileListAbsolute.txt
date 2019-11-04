@@ -1,0 +1,55 @@
+C:\Users\GeoMimo\Desktop\B_Teliki\B_Teliki\B_Teliki\bin\Debug\B_Teliki.exe.config
+C:\Users\GeoMimo\Desktop\B_Teliki\B_Teliki\B_Teliki\bin\Debug\B_Teliki.exe
+C:\Users\GeoMimo\Desktop\B_Teliki\B_Teliki\B_Teliki\bin\Debug\B_Teliki.pdb
+C:\Users\GeoMimo\Desktop\B_Teliki\B_Teliki\B_Teliki\obj\Debug\B_Teliki.csprojAssemblyReference.cache
+C:\Users\GeoMimo\Desktop\B_Teliki\B_Teliki\B_Teliki\obj\Debug\B_Teliki.Calculator.resources
+C:\Users\GeoMimo\Desktop\B_Teliki\B_Teliki\B_Teliki\obj\Debug\B_Teliki.Quiz.resources
+C:\Users\GeoMimo\Desktop\B_Teliki\B_Teliki\B_Teliki\obj\Debug\B_Teliki.Properties.Resources.resources
+C:\Users\GeoMimo\Desktop\B_Teliki\B_Teliki\B_Teliki\obj\Debug\B_Teliki.csproj.GenerateResource.cache
+C:\Users\GeoMimo\Desktop\B_Teliki\B_Teliki\B_Teliki\obj\Debug\B_Teliki.csproj.CoreCompileInputs.cache
+C:\Users\GeoMimo\Desktop\B_Teliki\B_Teliki\B_Teliki\obj\Debug\B_Teliki.exe
+C:\Users\GeoMimo\Desktop\B_Teliki\B_Teliki\B_Teliki\obj\Debug\B_Teliki.pdb
+C:\Users\pc\Desktop\Telikes-CS-B\B_Teliki\B_Teliki\bin\Debug\B_Teliki.exe.config
+C:\Users\pc\Desktop\Telikes-CS-B\B_Teliki\B_Teliki\bin\Debug\B_Teliki.exe
+C:\Users\pc\Desktop\Telikes-CS-B\B_Teliki\B_Teliki\bin\Debug\B_Teliki.pdb
+C:\Users\pc\Desktop\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.Calculator.resources
+C:\Users\pc\Desktop\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.Quiz.resources
+C:\Users\pc\Desktop\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.Properties.Resources.resources
+C:\Users\pc\Desktop\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.exe
+C:\Users\pc\Desktop\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.pdb
+C:\Users\GeoMimo\Downloads\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\bin\Debug\B_Teliki.exe.config
+C:\Users\GeoMimo\Downloads\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\bin\Debug\B_Teliki.exe
+C:\Users\GeoMimo\Downloads\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\bin\Debug\B_Teliki.pdb
+C:\Users\GeoMimo\Downloads\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.csprojAssemblyReference.cache
+C:\Users\GeoMimo\Downloads\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.Calculator.resources
+C:\Users\GeoMimo\Downloads\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.Quiz.resources
+C:\Users\GeoMimo\Downloads\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.Properties.Resources.resources
+C:\Users\GeoMimo\Downloads\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.csproj.GenerateResource.cache
+C:\Users\GeoMimo\Downloads\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.csproj.CoreCompileInputs.cache
+C:\Users\GeoMimo\Downloads\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.exe
+C:\Users\GeoMimo\Downloads\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.pdb
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.csprojAssemblyReference.cache
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.Calculator.resources
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.Quiz.resources
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.Properties.Resources.resources
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.csproj.GenerateResource.cache
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.csproj.CoreCompileInputs.cache
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.exe
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.pdb
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-B\B_Teliki\B_Teliki\bin\Debug\B_Teliki.exe.config
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-B\B_Teliki\B_Teliki\bin\Debug\B_Teliki.exe
+C:\Users\Theocharis\Desktop\Ergasia c#\Telikes-CS-B\B_Teliki\B_Teliki\bin\Debug\B_Teliki.pdb
+C:\Users\GeoMimo\Desktop\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\bin\Debug\B_Teliki.exe.config
+C:\Users\GeoMimo\Desktop\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\bin\Debug\B_Teliki.exe
+C:\Users\GeoMimo\Desktop\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\bin\Debug\B_Teliki.pdb
+C:\Users\GeoMimo\Desktop\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.csprojAssemblyReference.cache
+C:\Users\GeoMimo\Desktop\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.Calculator.resources
+C:\Users\GeoMimo\Desktop\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.Quiz.resources
+C:\Users\GeoMimo\Desktop\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.Properties.Resources.resources
+C:\Users\GeoMimo\Desktop\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.csproj.GenerateResource.cache
+C:\Users\GeoMimo\Desktop\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.csproj.CoreCompileInputs.cache
+C:\Users\GeoMimo\Desktop\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.exe
+C:\Users\GeoMimo\Desktop\Telikes-CS-B\Telikes-CS-B\B_Teliki\B_Teliki\obj\Debug\B_Teliki.pdb
